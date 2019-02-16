@@ -1,0 +1,6 @@
+
+On a boat hangs a rope ladder. The first rung is parallel to the
+water. The rungs are 30cm apart.The water rises 15cm an hour. 
+How long will it take before the water reaches the third rung?(0, 2, 4, 6)
+Hit the blue switch for ICE sword. Hit the RED switch for fire sword.
+Fire arrow at target to remove walls blocking your way.
